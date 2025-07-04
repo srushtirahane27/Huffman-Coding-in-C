@@ -4,7 +4,7 @@
 This is a simple implementation of Huffman Coding in C++, created by IamXraj. Huffman Coding is a lossless data compression algorithm that assigns variable-length codes to characters based on their frequencies. This project demonstrates both encoding and decoding functionality without any external dependencies.
 
 ## Author
-- **Developer**: IamXraj
+- **Developer**: srushtirahane27
 - **Created**: April 2025
 
 ## Features
@@ -81,4 +81,4 @@ This is a simple implementation of Huffman Coding in C++, created by IamXraj. Hu
 - Add command-line arguments for custom text
 
 ## License
-All Rights Researve @IamXraj.exe
+All Rights Researve @srushtirahane27.exe
